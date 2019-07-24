@@ -1,1 +1,2 @@
-# twelve_ladies
+# Twelve ladies
+I had this small puzzle of 9 pieces depicting some ladies. After half an hour I was really frustrated that I could not solve it and I left it on the side. Some years passed and I said "Hey, let's make a small program to solve it". And that's all. No optimal or clever solution. It's almost brute force 100%.
